@@ -1,0 +1,16 @@
+.picture {
+    float: right;
+    position:relative;
+    width: 650px;
+    height: 833px;
+}
+.picture .overlay {
+    float: right;
+    position:absolute;
+    float: right;
+    top: 90%;
+    left: 10%;
+    margin:-50px 0 0 -50px;
+    width: 500px;
+    height: 666px;
+}
