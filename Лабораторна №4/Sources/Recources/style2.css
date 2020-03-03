@@ -1,0 +1,18 @@
+div 
+{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 140px solid red;
+    transform: translate(50px,100px);
+}
+div:hover 
+{
+    width : 30px;
+}
+.test  
+{
+    transition-duration : 3s;  
+    transition-timing-function : ease-in;  
+}
