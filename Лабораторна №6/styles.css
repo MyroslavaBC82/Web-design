@@ -50,3 +50,12 @@ img.rot {
 	opacity:1; 
 	transition: 1s; 
 }
+#BigContent {
+  position: absolute;
+  top: 0;
+  display: flex;
+  width: 100%;
+  
+}
+
+#BigContent img{margin: auto;}
