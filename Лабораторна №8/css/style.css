@@ -1,0 +1,13 @@
+table, td, th {
+
+    border:  4mm ridge rgb(227, 245, 70);
+    text-align: center;
+    background: rgb(248, 246, 118);
+    color: rgb(2, 1, 1);
+    margin: auto;
+}
+
+
+#info {
+    text-align: center;
+}
